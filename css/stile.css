@@ -1,0 +1,15 @@
+.container {
+  text-align: center;
+}
+
+.lamp {
+  display: block;
+  margin: 0 auto;
+}
+
+.button {
+  display: block;
+  margin: 20px auto;
+  margin-left: 203px;
+  cursor: pointer;
+}
